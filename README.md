@@ -21,15 +21,12 @@ I'm a wind energy engineer and researcher. I am an avid coder with extensive exp
 
 
 ## 🚀 Code Challenges
-[**Advent of Code 2024**](https://github.com/jaimeliew1/Advent-of-Code-2024): AoC2024 solutions in Python 🐍.
-
-[**Advent of Code 2023**](https://github.com/jaimeliew1/Advent-of-Code-2023): AoC2023 solutions in Python 🐍.
-
-[**Advent of Code 2022**](https://github.com/jaimeliew1/Advent-of-Code-2022): AoC2022 solutions in Rust 🦀.
-
-[**Advent of Code 2021**](https://github.com/jaimeliew1/Advent-of-Code-2021): AoC2021 solutions in Rust 🦀.
-
-[**Advent of Code 2020**](https://github.com/jaimeliew1/adventofcode2020rust): AoC2020 solutions in Rust 🦀.
+### Advent of Code
+-  [**AoC2024**](https://github.com/jaimeliew1/Advent-of-Code-2024) (Python 🐍)
+-  [**AoC2023**](https://github.com/jaimeliew1/Advent-of-Code-2023) (Python 🐍)
+-  [**AoC2022**](https://github.com/jaimeliew1/Advent-of-Code-2022) (Rust 🦀)
+-  [**AoC2021**](https://github.com/jaimeliew1/Advent-of-Code-2021) (Rust 🦀)
+-  [**AoC2020**](https://github.com/jaimeliew1/adventofcode2020rust) (Rust 🦀)
 
 [**Synacor Challenge**](https://github.com/jaimeliew1/Synacor-Challenge): My solution to the [Synacor challenge](https://challenge.synacor.com/) in Rust 🦀.
 
